@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MojaAplikacja",
+    "slug": "moja-aplikacja",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
